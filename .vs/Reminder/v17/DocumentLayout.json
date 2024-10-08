@@ -3,10 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\atall\\source\\repos\\Reminder\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A6250FF1-E3F1-49B7-A0EE-EAE8E533FFD5}|..\\Reminder.Domain\\Reminder.Domain.csproj|c:\\users\\atall\\source\\repos\\reminder.domain\\candidat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{86C2350E-7970-4A73-84F7-620459EFB46C}|Reminder.Application.csproj|c:\\users\\atall\\source\\repos\\reminder\\controller\\candidatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86C2350E-7970-4A73-84F7-620459EFB46C}|Reminder.Application.csproj|solutionrelative:controller\\candidatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6250FF1-E3F1-49B7-A0EE-EAE8E533FFD5}|..\\Reminder.Domain\\Reminder.Domain.csproj|c:\\users\\atall\\source\\repos\\reminder.domain\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{86C2350E-7970-4A73-84F7-620459EFB46C}|Reminder.Application.csproj|c:\\users\\atall\\source\\repos\\reminder\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{86C2350E-7970-4A73-84F7-620459EFB46C}|Reminder.Application.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86C2350E-7970-4A73-84F7-620459EFB46C}|Reminder.Application.csproj|c:\\users\\atall\\source\\repos\\reminder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86C2350E-7970-4A73-84F7-620459EFB46C}|Reminder.Application.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -16,36 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Candidat.cs",
-              "DocumentMoniker": "C:\\Users\\atall\\source\\repos\\Reminder.Domain\\Candidat.cs",
-              "RelativeDocumentMoniker": "..\\Reminder.Domain\\Candidat.cs",
-              "ToolTip": "C:\\Users\\atall\\source\\repos\\Reminder.Domain\\Candidat.cs",
-              "RelativeToolTip": "..\\Reminder.Domain\\Candidat.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAA9wCQAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-07T21:43:10.124Z",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\atall\\source\\repos\\Reminder\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\atall\\source\\repos\\Reminder\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-08T22:10:44.387Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Appointment.cs",
-              "DocumentMoniker": "C:\\Users\\atall\\source\\repos\\Reminder.Domain\\Appointment.cs",
-              "RelativeDocumentMoniker": "..\\Reminder.Domain\\Appointment.cs",
-              "ToolTip": "C:\\Users\\atall\\source\\repos\\Reminder.Domain\\Appointment.cs",
-              "RelativeToolTip": "..\\Reminder.Domain\\Appointment.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAATAAAA",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\atall\\source\\repos\\Reminder\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\atall\\source\\repos\\Reminder\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-07T21:41:44.82Z",
+              "WhenOpened": "2024-10-08T21:07:53.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CandidatController.cs",
+              "DocumentMoniker": "C:\\Users\\atall\\source\\repos\\Reminder\\Controller\\CandidatController.cs",
+              "RelativeDocumentMoniker": "Controller\\CandidatController.cs",
+              "ToolTip": "C:\\Users\\atall\\source\\repos\\Reminder\\Controller\\CandidatController.cs",
+              "RelativeToolTip": "Controller\\CandidatController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T20:10:41.055Z",
               "EditorCaption": ""
             }
           ]
