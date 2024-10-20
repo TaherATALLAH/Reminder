@@ -32,5 +32,8 @@ project.fragment.lock.json
 # Ignorer le fichier de configuration sensible
 appsettings.Development.json
 
+# Ignorer les fichiers de migration
+Migrations/
+
 # Ignorer les fichiers de base de données
 *.db
