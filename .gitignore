@@ -1,0 +1,36 @@
+# Ignore build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+build/
+bin/
+obj/
+
+# Ignore user-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Ignore logs, NuGet packages, and other unnecessary files
+*.log
+*.nupkg
+*.snupkg
+project.lock.json
+project.fragment.lock.json
+
+# Ignore environment files
+.env
+
+# Ignore IDE-specific files
+.vs/
+.vscode/
+.idea/
+
+# Ignorer le fichier de configuration sensible
+appsettings.Development.json
+
+# Ignorer les fichiers de base de données
+*.db
